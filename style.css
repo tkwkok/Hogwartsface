@@ -322,7 +322,7 @@ color: #35465d;
     color: #d2da27
 }
 .Hufflepuff-dormitory-celeb {
-    color: #d2da27
+    color: #d2da27;
     font-size: 1.2rem;
     font-family: 'Jua', sans-serif;
 }
@@ -339,12 +339,4 @@ color: #35465d;
 }
 .image-title-wrap {
     text-align: center;
-}
-.ad-ban {
-    width: 320px;
-    margin: 0 auto;
-}
-.ad-bann {
-    width: 320px;
-  margin: 0 auto;
 }
