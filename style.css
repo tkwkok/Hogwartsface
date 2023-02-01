@@ -342,4 +342,7 @@ body {
       text-align: center;
   }
 
-  
+  .ad-banner {
+    margin: 0 auto;
+    width: 320px;
+  }
